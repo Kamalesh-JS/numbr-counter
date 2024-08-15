@@ -1,0 +1,18 @@
+#zero{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    color: rgb(0, 255, 255);
+}
+#btncont{
+    text-align: center;
+}
+.btn{
+    padding: 30px 50px;
+    font-size: 20px;
+    color: rgb(224, 59, 59);
+    background-color: rgb(204, 193, 46);
+    border-radius: 15px;
+    cursor: not-allowed;
+    
+}
